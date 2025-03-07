@@ -18,7 +18,7 @@
 
 <p align="center">
   <h3>Main Skills</h3>    
-    <img src="https://skillicons.dev/icons?i=go,python,js,ts,java,cs,c,cpp,solidity,rust,r, rails,django,nodejs,react,next,angular,vue,nuxt,spring,wordpres,laravel,postgresql,mongodb,mysql,redis,aws,azure,docker,kubernetes,jenkins,ansible,tailwind,bootstrap,yarn, git, github, gitlab,grafana, prometues, rabbitmq" /><br/>    
+    <img src="https://skillicons.dev/icons?i=go,python,js,ts,java,c,r, django,nodejs,react,next,angular,vue,nuxt,spring,wordpres,laravel,postgresql,mongodb,mysql,redis,aws,azure,docker,kubernetes,jenkins,ansible,tailwind,bootstrap,yarn, git, github, gitlab,grafana, prometues, rabbitmq" /><br/>    
 </p>
 
 <hr /> 
