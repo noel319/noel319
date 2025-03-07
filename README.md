@@ -17,15 +17,8 @@
 <hr />
 
 <p align="center">
-  <h3>Main Skills</h3>
-    <h4> ✅ Languages: </h4>
-    <img src="https://skillicons.dev/icons?i=go,python,js,ts,java,cs,c,cpp,solidity,rust,r" /><br/>
-    <h4> ✅ Frameworks/Libraries: </h4>
-    <img src="https://skillicons.dev/icons?i=rails,django,nodejs,react,next,angular,vue,nuxt,spring,wordpres, laravel" /><br/>
-    <h4> ✅ Databases: </h4>
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" /><br/>
-    <h4> ✅ Others: </h4>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,ansible,tailwind,bootstrap,yarn, git, github, gitlab,grafana, prometues, rabbitmq " /><br/>
+  <h3>Main Skills</h3>    
+    <img src="https://skillicons.dev/icons?i=go,python,js,ts,java,cs,c,cpp,solidity,rust,r, rails,django,nodejs,react,next,angular,vue,nuxt,spring,wordpres,laravel,postgresql,mongodb,mysql,redis,aws,azure,docker,kubernetes,jenkins,ansible,tailwind,bootstrap,yarn, git, github, gitlab,grafana, prometues, rabbitmq" /><br/>    
 </p>
 
 <hr /> 
